@@ -69,13 +69,11 @@ To explore more about data, the following questions need to be answered:
    3. Classification report (precision, recall, f1-score)
    4. Confusion matrix & Heatmap
 ### Logistic Regression
-   1. Fitting DecisionTreeClassifier Model
-   2. Plotting the tree
+   1. Fitting Logistic Regression Model
    3. Classification report (precision, recall, f1-score)
    4. Confusion matrix & Heatmap
 ### Linear Support Vector Classifier
-   1. Fitting DecisionTreeClassifier Model
-   2. Plotting the tree
+   1. Fitting Linear Support Vector Classifier Model
    3. Classification report (precision, recall, f1-score)
    4. Confusion matrix & Heatmap
 
